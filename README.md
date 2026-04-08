@@ -45,14 +45,14 @@
 
 ## 📸 Screenshots
 
-- iAttend Landing Page  ![iAttend Landing Page](Screenshots/iattend_landing.png)
-- Teacher Login Section  ![Teacher Login Section](Screenshots/iattend_teacher_login.png)
-- Live Face Recognition Window  ![Live Face Recognition Window](Screenshots/real_time_window.png)
-- Student Attendance Dashboard  ![Student Attendance Dashboard](Screenshots/student_attendance_dashboard.png)
-- Subject-wise Attendance Summary  ![Subject-wise Attendance Summary](Screenshots/subjectwise_attendance.png)
-- Teacher Panel for Attendance ![Teacher Panel for Attendance](Screenshots/teachers_panel.png)
-- Image Database Folder ![Image Database Folder](Screenshots/image_database.png)
-- Attendance Logging in CSV File ![Attendance Logging in CSV File](Screenshots/attendance_csv.png)
+- iAttend Landing Page  ![iAttend Landing Page](screenshots/iattend_landing.png)
+- Teacher Login Section  ![Teacher Login Section](screenshots/iattend_teacher_login.png)
+- Live Face Recognition Window  ![Live Face Recognition Window](screenshots/real_time_window.png)
+- Student Attendance Dashboard  ![Student Attendance Dashboard](screenshots/student_attendance_dashboard.png)
+- Subject-wise Attendance Summary  ![Subject-wise Attendance Summary](screenshots/subjectwise_attendance.png)
+- Teacher Panel for Attendance ![Teacher Panel for Attendance](screenshots/teachers_panel.png)
+- Image Database Folder ![Image Database Folder](screenshots/image_database.png)
+- Attendance Logging in CSV File ![Attendance Logging in CSV File](screenshots/attendance_csv.png)
 
 ---
 
